@@ -4,7 +4,7 @@
 
 
 - **toMilliseconds(param)** converts string to milliseconds. **param** must be number or string. Converts **param** to milliseconds. The following time units are supported: *ms, s/sec/second/seconds, m/min/minute/minutes, h/hour/hours*. It also supports time format as *m:ss*, *h:mm:ss*.
-- **toBoolean(param)** converts string to milliseconds. **param** must be boolean, number or string. Converts **para** to boolean. Supports the following strings *true/false, yes/no, on/off* (case insensitive). 
+- **toBoolean(param)** converts string to milliseconds. **param** must be boolean, number or string. Converts **param** to boolean. Supports the following strings *true/false, yes/no, on/off* (case insensitive). 
 
 ## Installation
 
