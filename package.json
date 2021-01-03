@@ -1,6 +1,7 @@
 {
   "name": "yaspar",
   "version": "1.0.0",
+  "description": "yaspar - parse string to milliseconds and boolean",
   "author": "bladerunner2020 <pivovarov@gmail.com>",
   "scripts": {
     "test": "jest"
@@ -8,6 +9,12 @@
   "jest": {
     "testEnvironment": "node"
   },
+  "keywords": [
+    "milliseconds",
+    "boolean",
+    "parser",
+    "parsing"
+  ],
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.8.0",
