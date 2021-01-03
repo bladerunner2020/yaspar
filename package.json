@@ -1,8 +1,12 @@
 {
   "name": "yaspar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yaspar - parse string to milliseconds and boolean",
   "author": "bladerunner2020 <pivovarov@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bladerunner2020/yaspar.git"
+  },
   "scripts": {
     "test": "jest"
   },
